@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mangewp&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="144" alt="streak graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mangewp&layout=compact&theme=dracula" height="144" />
+  <img src="https://streak-stats.demolab.com?user=lopezey&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="144" alt="streak graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lopezey&layout=compact&theme=dracula" height="144" />
 </div>
 
 ###
